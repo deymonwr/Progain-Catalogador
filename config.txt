@@ -1,0 +1,18 @@
+[CONTA]
+email = "seu Email da corretora"
+senha = "sua senha da corretora"
+conta = PRACTICE
+#PRACTICE = Demo / REAL = Conta Real
+
+[GERAL]
+timeframe = 1
+dias = 15
+porcentagem = 90
+martingaleqtd = 2
+parescolha = AUTO
+#Escolha o par ou AUTO  para todos os pares / para pares em OTC adicione -OTC ao nome do par
+tipoanalise = digital
+# digital / binary
+
+ 
+
